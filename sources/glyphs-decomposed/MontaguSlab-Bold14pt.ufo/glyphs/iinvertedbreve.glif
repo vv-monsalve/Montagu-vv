@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iinvertedbreve" format="2">
+  <advance width="847"/>
+  <unicode hex="020B"/>
+  <anchor x="424" y="0" name="bottom"/>
+  <anchor x="637" y="0" name="ogonek"/>
+  <anchor x="423" y="1160" name="top"/>
+  <outline>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="775" y="0" type="line"/>
+      <point x="775" y="210" type="line"/>
+      <point x="637" y="210" type="line"/>
+      <point x="637" y="1160" type="line"/>
+      <point x="93" y="1160" type="line"/>
+      <point x="93" y="950" type="line"/>
+      <point x="237" y="950" type="line"/>
+      <point x="237" y="210" type="line"/>
+      <point x="78" y="210" type="line"/>
+    </contour>
+    <contour>
+      <point x="49" y="1290" type="curve"/>
+      <point x="229" y="1290" type="line"/>
+      <point x="241" y="1352"/>
+      <point x="293" y="1412"/>
+      <point x="423" y="1412" type="curve" smooth="yes"/>
+      <point x="553" y="1412"/>
+      <point x="605" y="1352"/>
+      <point x="617" y="1290" type="curve"/>
+      <point x="797" y="1290" type="line"/>
+      <point x="791" y="1476"/>
+      <point x="662" y="1620"/>
+      <point x="423" y="1620" type="curve" smooth="yes"/>
+      <point x="184" y="1620"/>
+      <point x="55" y="1476"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021/05/03 12:17:04</string>
+    </dict>
+  </lib>
+</glyph>

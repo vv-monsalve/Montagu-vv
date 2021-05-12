@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="1034"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="517" y="678" type="curve" smooth="yes"/>
+      <point x="780" y="678"/>
+      <point x="973" y="832"/>
+      <point x="973" y="1094" type="curve" smooth="yes"/>
+      <point x="973" y="1357"/>
+      <point x="779" y="1512"/>
+      <point x="517" y="1512" type="curve" smooth="yes"/>
+      <point x="255" y="1512"/>
+      <point x="61" y="1357"/>
+      <point x="61" y="1095" type="curve" smooth="yes"/>
+      <point x="61" y="832"/>
+      <point x="254" y="678"/>
+    </contour>
+    <contour>
+      <point x="517" y="802" type="curve" smooth="yes"/>
+      <point x="432" y="802"/>
+      <point x="387" y="908"/>
+      <point x="387" y="1095" type="curve" smooth="yes"/>
+      <point x="387" y="1277"/>
+      <point x="432" y="1388"/>
+      <point x="517" y="1388" type="curve" smooth="yes"/>
+      <point x="602" y="1388"/>
+      <point x="647" y="1281"/>
+      <point x="647" y="1106" type="curve" smooth="yes"/>
+      <point x="647" y="911"/>
+      <point x="601" y="802"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021/05/03 12:17:04</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

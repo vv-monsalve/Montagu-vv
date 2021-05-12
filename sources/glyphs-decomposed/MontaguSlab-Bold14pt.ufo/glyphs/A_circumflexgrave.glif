@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acircumflexgrave" format="2">
+  <advance width="1824"/>
+  <unicode hex="1EA6"/>
+  <anchor x="912" y="0" name="bottom"/>
+  <anchor x="1642" y="0" name="ogonek"/>
+  <anchor x="1386" y="1700" name="side"/>
+  <anchor x="912" y="1910" name="top"/>
+  <outline>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="660" y="0" type="line"/>
+      <point x="660" y="214" type="line"/>
+      <point x="454" y="214" type="line"/>
+      <point x="895" y="1269" type="line"/>
+      <point x="764" y="1270" type="line"/>
+      <point x="1194" y="214" type="line"/>
+      <point x="986" y="214" type="line"/>
+      <point x="986" y="0" type="line"/>
+      <point x="1790" y="0" type="line"/>
+      <point x="1790" y="214" type="line"/>
+      <point x="1651" y="214" type="line"/>
+      <point x="1106" y="1500" type="line"/>
+      <point x="718" y="1500" type="line"/>
+      <point x="173" y="214" type="line"/>
+      <point x="34" y="214" type="line"/>
+    </contour>
+    <contour>
+      <point x="486" y="425" type="line"/>
+      <point x="1184" y="425" type="line"/>
+      <point x="1184" y="649" type="line"/>
+      <point x="486" y="649" type="line"/>
+    </contour>
+    <contour>
+      <point x="498" y="1630" type="line"/>
+      <point x="728" y="1630" type="line"/>
+      <point x="972" y="1843" type="line"/>
+      <point x="802" y="1843" type="line"/>
+      <point x="1042" y="1630" type="line"/>
+      <point x="1326" y="1630" type="line"/>
+      <point x="1120" y="1930" type="line"/>
+      <point x="704" y="1930" type="line"/>
+    </contour>
+    <contour>
+      <point x="1291" y="1810" type="line"/>
+      <point x="1529" y="1810" type="line"/>
+      <point x="1449" y="2100" type="line"/>
+      <point x="1129" y="2100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021/05/03 12:17:03</string>
+    </dict>
+  </lib>
+</glyph>

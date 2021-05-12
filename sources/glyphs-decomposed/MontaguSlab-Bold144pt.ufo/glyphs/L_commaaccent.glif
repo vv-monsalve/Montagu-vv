@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcommaaccent" format="2">
+  <advance width="1484"/>
+  <unicode hex="013B"/>
+  <anchor x="729" y="0" name="bottom"/>
+  <anchor x="440" y="1240" name="center"/>
+  <anchor x="440" y="1500" name="top"/>
+  <anchor x="959" y="1500" name="topright"/>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="650" y="0" type="line"/>
+      <point x="650" y="1304" type="line"/>
+      <point x="967" y="1304" type="line"/>
+      <point x="967" y="1500" type="line"/>
+      <point x="57" y="1500" type="line"/>
+      <point x="57" y="1304" type="line"/>
+      <point x="230" y="1304" type="line"/>
+      <point x="230" y="196" type="line"/>
+      <point x="54" y="196" type="line"/>
+    </contour>
+    <contour>
+      <point x="650" y="0" type="line"/>
+      <point x="1400" y="0" type="line"/>
+      <point x="1400" y="206" type="line"/>
+      <point x="650" y="206" type="line"/>
+    </contour>
+    <contour>
+      <point x="982" y="206" type="curve" smooth="yes"/>
+      <point x="1400" y="206" type="line"/>
+      <point x="1400" y="560" type="line"/>
+      <point x="1202" y="560" type="line"/>
+      <point x="1202" y="446" type="line" smooth="yes"/>
+      <point x="1202" y="276"/>
+      <point x="1142" y="206"/>
+    </contour>
+    <contour>
+      <point x="575" y="-687" type="curve"/>
+      <point x="726" y="-687" type="line"/>
+      <point x="827" y="-621"/>
+      <point x="957" y="-490"/>
+      <point x="957" y="-305" type="curve" smooth="yes"/>
+      <point x="957" y="-151"/>
+      <point x="857" y="-76"/>
+      <point x="721" y="-76" type="curve" smooth="yes"/>
+      <point x="585" y="-76"/>
+      <point x="501" y="-150"/>
+      <point x="501" y="-256" type="curve" smooth="yes"/>
+      <point x="501" y="-379"/>
+      <point x="601" y="-449"/>
+      <point x="752" y="-433" type="curve"/>
+      <point x="736" y="-513"/>
+      <point x="669" y="-605"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021/05/03 12:17:03</string>
+    </dict>
+  </lib>
+</glyph>

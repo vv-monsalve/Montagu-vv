@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="softhyphen" format="2">
+  <advance width="956"/>
+  <unicode hex="00AD"/>
+  <outline>
+    <contour>
+      <point x="160" y="560" type="line"/>
+      <point x="796" y="560" type="line"/>
+      <point x="796" y="602" type="line"/>
+      <point x="160" y="602" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021/05/03 12:17:04</string>
+    </dict>
+  </lib>
+</glyph>

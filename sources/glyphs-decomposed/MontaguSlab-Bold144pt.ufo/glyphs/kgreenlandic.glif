@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="1461"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="38" y="0" type="line"/>
+      <point x="697" y="0" type="line"/>
+      <point x="697" y="192" type="line"/>
+      <point x="598" y="192" type="line"/>
+      <point x="598" y="948" type="line"/>
+      <point x="691" y="948" type="line"/>
+      <point x="691" y="1140" type="line"/>
+      <point x="44" y="1140" type="line"/>
+      <point x="44" y="948" type="line"/>
+      <point x="198" y="948" type="line"/>
+      <point x="198" y="192" type="line"/>
+      <point x="38" y="192" type="line"/>
+    </contour>
+    <contour>
+      <point x="571" y="348" type="line"/>
+      <point x="1231" y="948" type="line"/>
+      <point x="1365" y="948" type="line"/>
+      <point x="1365" y="1140" type="line"/>
+      <point x="763" y="1140" type="line"/>
+      <point x="763" y="948" type="line"/>
+      <point x="921" y="948" type="line"/>
+      <point x="429" y="496" type="line"/>
+    </contour>
+    <contour>
+      <point x="764" y="0" type="line"/>
+      <point x="1421" y="0" type="line"/>
+      <point x="1421" y="192" type="line"/>
+      <point x="1312" y="192" type="line"/>
+      <point x="909" y="799" type="line"/>
+      <point x="649" y="563" type="line"/>
+      <point x="879" y="192" type="line"/>
+      <point x="764" y="192" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021/05/03 12:17:04</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

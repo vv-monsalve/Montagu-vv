@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icircumflex" format="2">
+  <advance width="638"/>
+  <unicode hex="00EE"/>
+  <anchor x="319" y="0" name="bottom"/>
+  <anchor x="470" y="0" name="ogonek"/>
+  <anchor x="616" y="1330" name="side"/>
+  <anchor x="320" y="1540" name="top"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="558" y="42" type="line"/>
+      <point x="364" y="42" type="line"/>
+      <point x="364" y="1100" type="line"/>
+      <point x="122" y="1100" type="line"/>
+      <point x="122" y="1058" type="line"/>
+      <point x="316" y="1058" type="line"/>
+      <point x="316" y="42" type="line"/>
+      <point x="100" y="42" type="line"/>
+    </contour>
+    <contour>
+      <point x="54" y="1250" type="line"/>
+      <point x="104" y="1250" type="line"/>
+      <point x="331" y="1533" type="line"/>
+      <point x="306" y="1533" type="line"/>
+      <point x="535" y="1250" type="line"/>
+      <point x="586" y="1250" type="line"/>
+      <point x="340" y="1560" type="line"/>
+      <point x="300" y="1560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021/05/03 12:17:04</string>
+    </dict>
+  </lib>
+</glyph>

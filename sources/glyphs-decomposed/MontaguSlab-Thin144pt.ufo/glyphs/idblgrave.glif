@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idblgrave" format="2">
+  <advance width="545"/>
+  <unicode hex="0209"/>
+  <anchor x="272" y="0" name="bottom"/>
+  <anchor x="420" y="0" name="ogonek"/>
+  <anchor x="268" y="1080" name="top"/>
+  <outline>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="519" y="36" type="line"/>
+      <point x="312" y="36" type="line"/>
+      <point x="312" y="1080" type="line"/>
+      <point x="57" y="1080" type="line"/>
+      <point x="57" y="1044" type="line"/>
+      <point x="264" y="1044" type="line"/>
+      <point x="264" y="36" type="line"/>
+      <point x="34" y="36" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="1230" type="line"/>
+      <point x="160" y="1230" type="line"/>
+      <point x="-90" y="1540" type="line"/>
+      <point x="-148" y="1540" type="line"/>
+    </contour>
+    <contour>
+      <point x="391" y="1230" type="line"/>
+      <point x="439" y="1230" type="line"/>
+      <point x="201" y="1540" type="line"/>
+      <point x="145" y="1540" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021/05/03 12:17:04</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wgrave" format="2">
+  <advance width="1556"/>
+  <unicode hex="1E81"/>
+  <anchor x="778" y="0" name="bottom"/>
+  <anchor x="778" y="1080" name="top"/>
+  <outline>
+    <contour>
+      <point x="1037" y="0" type="line"/>
+      <point x="1079" y="0" type="line"/>
+      <point x="1400" y="1044" type="line"/>
+      <point x="1544" y="1044" type="line"/>
+      <point x="1544" y="1080" type="line"/>
+      <point x="1111" y="1080" type="line"/>
+      <point x="1111" y="1044" type="line"/>
+      <point x="1358" y="1044" type="line"/>
+      <point x="1054" y="49" type="line"/>
+      <point x="1070" y="49" type="line"/>
+      <point x="766" y="1044" type="line"/>
+      <point x="1013" y="1044" type="line"/>
+      <point x="1013" y="1080" type="line"/>
+      <point x="572" y="1080" type="line"/>
+      <point x="572" y="1044" type="line"/>
+      <point x="716" y="1044" type="line"/>
+    </contour>
+    <contour>
+      <point x="477" y="0" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="794" y="895" type="line"/>
+      <point x="773" y="961" type="line"/>
+      <point x="494" y="49" type="line"/>
+      <point x="510" y="49" type="line"/>
+      <point x="206" y="1044" type="line"/>
+      <point x="453" y="1044" type="line"/>
+      <point x="453" y="1080" type="line"/>
+      <point x="12" y="1080" type="line"/>
+      <point x="12" y="1044" type="line"/>
+      <point x="156" y="1044" type="line"/>
+    </contour>
+    <contour>
+      <point x="783" y="1230" type="line"/>
+      <point x="830" y="1230" type="line"/>
+      <point x="603" y="1540" type="line"/>
+      <point x="547" y="1540" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021/05/03 12:17:04</string>
+    </dict>
+  </lib>
+</glyph>

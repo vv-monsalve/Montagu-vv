@@ -202819,6 +202819,12 @@ rightMetricsKey = dotaccentcomb;
 );
 instances = (
 {
+customParameters = (
+{
+name = familyName;
+value = "Montagu Slab 144pt";
+}
+);
 interpolationWidth = 144;
 instanceInterpolations = {
 "1E61A082-F045-49A7-AB52-DD1B03FD9B54" = 1;
@@ -202827,6 +202833,12 @@ name = Thin;
 weightClass = Thin;
 },
 {
+customParameters = (
+{
+name = familyName;
+value = "Montagu Slab 144pt";
+}
+);
 interpolationWeight = 180;
 interpolationWidth = 144;
 instanceInterpolations = {
@@ -202837,6 +202849,12 @@ name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
+customParameters = (
+{
+name = familyName;
+value = "Montagu Slab 144pt";
+}
+);
 interpolationWeight = 260;
 interpolationWidth = 144;
 instanceInterpolations = {
@@ -202847,6 +202865,12 @@ name = Light;
 weightClass = Light;
 },
 {
+customParameters = (
+{
+name = familyName;
+value = "Montagu Slab 144pt";
+}
+);
 interpolationWeight = 378;
 interpolationWidth = 144;
 instanceInterpolations = {
@@ -202856,6 +202880,12 @@ instanceInterpolations = {
 name = Regular;
 },
 {
+customParameters = (
+{
+name = familyName;
+value = "Montagu Slab 144pt";
+}
+);
 interpolationWeight = 492;
 interpolationWidth = 144;
 instanceInterpolations = {
@@ -202866,6 +202896,12 @@ name = Medium;
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = familyName;
+value = "Montagu Slab 144pt";
+}
+);
 interpolationWeight = 588;
 interpolationWidth = 144;
 instanceInterpolations = {
@@ -202875,6 +202911,12 @@ instanceInterpolations = {
 name = SemiBold;
 },
 {
+customParameters = (
+{
+name = familyName;
+value = "Montagu Slab 144pt";
+}
+);
 interpolationWeight = 700;
 interpolationWidth = 144;
 instanceInterpolations = {
